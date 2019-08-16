@@ -1,4 +1,4 @@
-# music_piano_machine_learning
+# music_piano_deep_learning
 the project can be used to generate piano tune.
 # the music train model file
 it contains all the code required to train the keras model
@@ -15,3 +15,9 @@ try to train your own model to get good outputs
    5. glob
 # to get output run 
 music generation.ipynb
+# layers used 
+   1. LSTM
+   2. dropout
+   3. dense
+# type of modeling 
+sequential
